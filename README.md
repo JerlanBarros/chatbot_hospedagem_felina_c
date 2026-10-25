@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chatbot de Hospedagem Felina em C
 
 Chatbot de hospedagem felina desenvolvido em C para praticar lógica de programação e estruturas de controle.
