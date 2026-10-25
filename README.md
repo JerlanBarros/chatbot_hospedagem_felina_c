@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chatbot de Hospedagem Felina em C
 
 Chatbot de hospedagem felina desenvolvido em C para praticar lógica de programação e estruturas de controle.
@@ -9,3 +10,7 @@ Chatbot de hospedagem felina desenvolvido em C para praticar lógica de programa
 - Cálculo do preço da hospedagem com base na quantidade de dias (utilizando faixas de preços ilustrativas).
 
 *Nota: Projeto acadêmico focado em recursos básicos da linguagem (stdio.h, stdlib.h, locale.h, scanf, condicionais).*
+=======
+# chatbot_hospedagem_felina_c
+Chatbot de hospedagem felina desenvolvido em C para praticar lógica de programação e estruturas de controle.
+>>>>>>> c4bbd85bf7f4374d0d5ce87e1f0cbd3f0e42ab00
